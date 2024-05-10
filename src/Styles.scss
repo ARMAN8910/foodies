@@ -1,0 +1,288 @@
+// Navbar Section
+
+.navbar-container{
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+    height: 100vh;
+    padding: 20px;
+    background-color: #1a1a1d;
+
+    .navbar-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .heading-container{
+            flex: 1;
+            text-align: center;
+            margin-left: 120px;
+            .navbar-heading{
+                color: #F86634;
+                font-size: 100px;
+            }
+        }
+        .logout{
+          color: #F86634;
+          text-decoration: none;
+          font-size: larger;
+        }
+      }
+      .login-signup{
+        display: flex;
+        gap: 10px;
+          .signup-section a {
+            text-decoration: none;
+            color:#F86634;
+            font-size: larger;
+          }
+    
+          .login-section a {
+            text-decoration: none;
+            color:#F86634;
+            font-size: larger;
+          }
+      }
+
+    .search-section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 50px;
+
+        .receipe-input{
+            outline: none;
+            border: 1px solid #F86634;
+            border-radius: 20px;
+            height: 50px;
+            width: 50vw;
+            padding: 10px;
+            background-color: transparent;
+            color: white;
+            font-size: larger;
+        }
+        .button-section {
+            display: flex;
+            
+            .btn {
+              background-color: #f86634;
+              color: white;
+              border: none;
+              padding: 10px 20px;
+              cursor: pointer;
+              font-size: larger;
+              border-radius: 20px;
+            }
+          }
+
+          .description{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+            font-size: larger;
+            color:white;
+
+            p{
+              .link{
+                text-decoration: none;
+                color:#F86634;
+              }
+            }
+          }
+          
+    }
+
+}
+
+// ----------------------------------------------------------------------------------------------------------------------------------
+
+// Receipes Section
+.result-section {
+    min-height: 100vh;
+    padding: 20px;
+  
+    .heading {
+      margin-bottom: 20px;
+      color: #F86634;
+    }
+  
+    .result-heading {
+      text-align: center;
+      font-size: 2rem;
+      color: #333;
+    }
+  
+    .receipe-results {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .pagination{
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+
+      button{
+        cursor: pointer;
+        background: none;
+        color: #F86634;
+      }
+    }
+  }
+  
+// ----------------------------------------------------------------------------------------------------------------------------------
+
+// Receipe Card
+.receipe-card {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 20px;
+    min-height: 300px;
+  }
+  
+  .image-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .recipe-details {
+    padding: 20px;
+  }
+  
+  .recipe-details h2 {
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #F86634;
+  }
+  
+  .recipe-details p {
+    margin-bottom: 5px;
+  }
+  
+  .recipe-details a {
+    display: block;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+
+// ----------------------------------------------------------------------------------------------------------------------------------
+
+
+// Signup
+
+/* Styles.scss */
+.signup-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  height: 100vh;
+}
+
+.signup-form {
+  width: 400px;
+  max-width: 100%;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #F86634;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.submit-section{
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+// Login
+
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+  height: 100vh;
+}
+
+.login-form {
+  width: 400px;
+  max-width: 100%;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #F86634;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.submit-section {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
