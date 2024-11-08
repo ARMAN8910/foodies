@@ -31,5 +31,10 @@ The website is built as a full-stack application where the frontend and backend 
 ## 📸 Screenshots
 
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/cec97a64e3456b74726416934e75eb989dc82cfb/ph1.jpeg)
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/ece98ef53e2916e957508d0a0fad45978afb0de8/ph2.jpeg)
+
+
+
+
 
 
