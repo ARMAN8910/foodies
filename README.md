@@ -31,7 +31,27 @@ The website is built as a full-stack application where the frontend and backend 
 ## 📸 Screenshots
 
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/cec97a64e3456b74726416934e75eb989dc82cfb/ph1.jpeg)
+
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/ece98ef53e2916e957508d0a0fad45978afb0de8/ph2.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph3%20org.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph4%20org.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph5.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph6%20org1.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph7%20org.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph8.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph9%20org.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph10.jpeg)
+
+![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph11.jpeg)
+
 
 
 
