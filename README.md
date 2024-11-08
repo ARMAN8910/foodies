@@ -46,11 +46,18 @@ The website is built as a full-stack application where the frontend and backend 
 
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph8.jpeg)
 
+## 🔗  MySql DB Screenshots.
+
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph9%20org.jpeg)
 
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph10.jpeg)
 
 ![Foodies Website Screenshot](https://raw.githubusercontent.com/ARMAN8910/foodies/35a30b6240edc5ed1071b7626f8b6e15b6c6ef16/ph11.jpeg)
+
+
+## 🔗 Backend Link
+
+You can access the backend of the Foodies website here: [Foodies Backend](https://github.com/ARMAN8910/foodies-backend)
 
 
 
